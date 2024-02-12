@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="enter_a_task">Enter a task...</string>
+    <string name="submit">SUBMIT</string>
+</resources>
